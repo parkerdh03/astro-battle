@@ -9,6 +9,7 @@ class GameElement {
   int y_;
   int width_;
   int height_;
+  bool is_active;
 
  public:
   GameElement();
@@ -24,5 +25,7 @@ class GameElement {
   int GetWidth();
   int GetHeight();
   void Draw(graphics::Image& game_element_rect);
+  bool GetIsActive();
+  void SetIsActive(bool active);
 };
 #endif
