@@ -20,4 +20,4 @@ obj2.Draw(game_screen);
 obj3.Draw(game_screen);
 obj4.Draw(game_screen);
 game_screen.ShowUntilClosed("background.bmp");
-}
+} 
