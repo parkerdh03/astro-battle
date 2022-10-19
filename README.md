@@ -1,4 +1,5 @@
 # SPACE INVADERS
+This game is similar to the popular game space invaders. It gives the user a character to control. They can shoot projectiles at computer generated opponents, and those opponents will shoot back. The user will gain points and progress through the game by shooting the opponents. The player loses the game once they are struck with an opponent projectile.
 
 
 # game_element.cc/game_element.h
