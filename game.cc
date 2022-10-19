@@ -61,4 +61,4 @@ void Game::UpdateScreen(){
    for (int i = 0; i < opponents.size(); i++) {
        opponentProjectiles[i].Draw(background);
    }
-}
+} 
